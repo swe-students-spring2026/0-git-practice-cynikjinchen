@@ -9,3 +9,6 @@ This article explains that nowadays AI tools generate incorrect upgrade recommen
 ## Comment from Ethan
 
 The article highlights the downsides of using AI in its current state. A hallucination rate of more than one quarter for open source projects is quite high and unreliable. I do believe that AI will continue on its current exponential path of improvement, but I can also see how it may not end up being the all-powerful tool some envision it to be in the future.
+
+## Comment from Laiyi
+Your reflection makes an important point that AI output is not the same as verified engineering work. The 27 percent hallucination rate is especially worrying for dependency upgrades because small version changes can break builds or introduce security risks. I like how you connect this to a practical takeaway, which is that teams should treat AI suggestions as drafts that still require human review, testing, and safe rollout.
